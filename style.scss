@@ -3,17 +3,17 @@
     padding: 0;
     box-sizing: border-box;
     gap: 20px;
-
-    font-family: "Inter";
-    h1 {
-        color: #F587DD;
-    }
 }
 
 body {
     display: grid;
     gap: 30px;
     background-color: #BAF3F6;
+
+     font-family: "Inter";
+    h1 {
+        color: #F587DD;
+    }
 }
 
 .name {
